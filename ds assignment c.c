@@ -48,8 +48,10 @@ int main() {
     insert(&head, 291);  // Your roll number
     insert(&head, 292);  // teammate 1
     insert(&head, 293);  // teammate 2
-    insert(&head, 294);  // teammate 3
+    insert(&head, 294); // teammate 3
+    insert(&head,289);
 
     display(head);
     return 0;
 }
+
